@@ -1,0 +1,18 @@
+# Python virtual env (uv)
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Editors
+.vscode/
+.idea/
